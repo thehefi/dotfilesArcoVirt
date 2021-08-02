@@ -1,3 +1,5 @@
+# My bash config 2021-08-02 17:45
+
 #
 # ~/.bashrc
 #
